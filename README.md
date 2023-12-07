@@ -3,9 +3,10 @@
 ---
 ### Projects
 
-#### Client-server application in C++/Qt (team project) [link](https://github.com/cpp-park-vk-education/2023_1_Rabotyagi)
+### Client-server application in C++/Qt (team project) [link](https://github.com/cpp-park-vk-education/2023_1_Rabotyagi)
 Worked on a client.
 
-#### Soil classificator [link](https://github.com/IlyaKasiutin/soil_classificator)
+### Soil classificator [link](https://github.com/IlyaKasiutin/soil_classificator)
+---
 
 
