@@ -3,6 +3,8 @@
 ---
 ### Projects
 
+### Calorie estimator by photo (team project) [link](https://github.com/IlyaKasiutin/Calorie-estimator)
+
 ### Client-server application in C++/Qt (team project) [link](https://github.com/cpp-park-vk-education/2023_1_Rabotyagi)
 Worked on a client.
 
