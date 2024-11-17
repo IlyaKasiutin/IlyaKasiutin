@@ -1,5 +1,5 @@
 ### BMSTU student, 4th year
-### Student of VK Education ML program in BMSTU. https://park.vk.company/
+### VK Education ML program in BMSTU alumni. https://park.vk.company/
 ### Kaggle profile: https://www.kaggle.com/ilyakasiutin
 ---
 ### Projects
