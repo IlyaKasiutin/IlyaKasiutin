@@ -1,4 +1,4 @@
-### BMSTU student, 3rd year
+### BMSTU student, 4th year
 ### Student of VK Education ML program in BMSTU. https://park.vk.company/
 ### Kaggle profile: https://www.kaggle.com/ilyakasiutin
 ---
